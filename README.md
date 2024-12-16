@@ -1,4 +1,4 @@
-# 👋 Ciao, sono un appassionato di tecnologia!
+# 👋 Ciao sono Giulio, un appassionato di tecnologia!
 
 ---
 
