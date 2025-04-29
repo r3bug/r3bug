@@ -42,7 +42,8 @@ Benvenuto nel mio profilo GitHub! 🚀 Qui troverai i progetti su cui ho lavorat
 ---
 
 ## 🤝 **Contattami**
-- 📧 Email: *[giulio.dinatale@bluewin.ch](mailto:giulio.dinatale@bluewin.ch)*
+- 📧 Email: *[me@giuliodinatale.it](mailto:me@giuliodinatale.it)*
+- 📧 Email 2: *[giulio.dinatale@bluewin.ch](mailto:giulio.dinatale@bluewin.ch)*
   
 
 ---
