@@ -1,51 +1,117 @@
-# 👋 Ciao sono Giulio, un appassionato di tecnologia!
+# Giulio Di Natale
+
+Tecnico Informatico & Web Developer  
+📍 Siracusa, Italia
+
+Mi occupo di infrastrutture IT, supporto sistemistico e sviluppo web, con particolare attenzione a sicurezza, performance e affidabilità.
 
 ---
 
-### 🖥️ **IT Technician | Web Developer | Network Specialist**
+## 👨‍💻 Chi Sono
 
-Benvenuto nel mio profilo GitHub! 🚀 Qui troverai i progetti su cui ho lavorato, che spaziano dallo sviluppo web alla gestione di infrastrutture IT e reti aziendali. 
+Sono un tecnico informatico e web developer specializzato nella gestione di sistemi, reti e applicazioni web.
 
----
+Lavoro quotidianamente su:
 
-## 🌟 **Chi sono?**
-- 💻 Appassionato di **sviluppo web**, creo siti funzionali e responsive utilizzando **HTML**, **CSS**, **JavaScript** e strumenti come **WordPress**.
-- 🛠️ Esperto di **networking**, con competenze nella configurazione e ottimizzazione di reti aziendali: **switch**, **router**, infrastrutture in fibra ottica e troubleshooting.
-- 🔧 Interesse per **virtualizzazione** e **server management**, con un occhio sempre attento all'evoluzione delle tecnologie.
+- infrastrutture IT
+- ambienti Linux e Windows
+- virtualizzazione
+- networking
+- sicurezza informatica
+- deployment e manutenzione di servizi digitali
+- sviluppo web moderno
 
----
-
-## 🚀 **Cosa troverai nei miei repository?**
-- 🌐 Progetti di **sviluppo web**: landing page, siti personalizzati, componenti front-end.
-- ⚙️ Script e configurazioni per **ottimizzazione e gestione reti**.
-- 🛠️ Progetti sperimentali e idee innovative in ambito IT.
+Ho un approccio pratico orientato alla risoluzione dei problemi, all'automazione e all'ottimizzazione delle performance.
 
 ---
 
-## 📚 **Competenze Tecniche**
+## 🚀 Competenze
 
-| 💻 **Sviluppo Web**      | 🔧 **Networking**              | 🛠️ **Strumenti IT**     |
-|-------------------------|--------------------------------|-------------------------|
-| HTML, CSS, JavaScript   | Configurazione Reti (VLAN, VPN ....) | Virtualizzazione (ProxMox, Vmware ESXi) |
-| WordPress e CMS         | Configurazione di Switch/Router| Sistemi Operativi: Linux, Windows, macOS |
-| Responsive Design       | Ottimizzazione reti Ethernet   | Docker (base)           |
-| Debugging e Testing     | Sicurezza di rete (firewall)   | Git e versionamento     |
-| Animazione CSS/JS       | Troubleshooting connessioni    | Gestione server locali e remoti |
+### Web Development
+- HTML5
+- CSS3
+- JavaScript
+- WordPress
+
+### Sistemi & Networking
+- Windows Server
+- Linux
+- Virtualizzazione
+- LAN / VLAN
+- Firewall
+- VPN
+- IDS / IPS
+
+### Scripting & Automazione
+- Bash
+- PowerShell
+
+### Sicurezza Informatica
+- Hardening sistemi
+- Networking security
+- Monitoraggio servizi
+- Gestione accessi
 
 ---
 
-## 📊 **Obiettivi**
-- 🎯 Continuare a crescere nel campo **IT e Web Development**.
-- 📚 Approfondire le mie competenze in **virtualizzazione**, **cloud computing** e **sicurezza delle reti**.
-- 🚀 Proseguire gli studi universitari per diventare un esperto certificato nel settore tecnologico.
+## Istruzione
+
+### Università Mercatorum
+**Ingegneria Informatica (L-8)**  
+2026 — Attuale
+
+Percorso universitario attualmente in corso.
 
 ---
 
-## 🤝 **Contattami**
-- 📧 Email: *[giulio@giuliodinatale.it](mailto:giulio@giuliodinatale.it)*
-- 📧 Email 2: *[giulio.dinatale@bluewin.ch](mailto:giulio.dinatale@bluewin.ch)*
-  
+### Diploma di Geometra
+**Costruzioni, Ambiente e Territorio**  
+2020 — 2025
+
+Diploma conseguito.
 
 ---
 
-**"La tecnologia non dorme mai, e nemmeno io!"** 🚀
+## Certificazioni
+
+- Google Prompting Essentials
+- Google AI Essentials
+
+
+---
+
+## 🛠️ Tecnologie & Tool
+
+```text
+Linux • Docker • Git • GitHub • WordPress • Bash
+PowerShell • JavaScript • Networking • Virtualization
+Windows Server • Firewall • VPN • HTML • CSS
+```
+
+---
+
+## Progetti
+
+In questo profilo GitHub pubblico progetti relativi a:
+
+- Docker & self-hosting
+- automazione
+- networking
+- VPN
+- sviluppo web
+- infrastrutture IT
+- scripting
+- configurazioni server
+
+---
+
+## Contatti
+
+📧 Email: giulio@giuliodinatale.it  
+🌐 Website: https://giuliodinatale.it
+
+---
+
+## ⚖️ Licenza
+
+I progetti presenti in questo profilo sono distribuiti sotto licenza MIT, salvo diversa indicazione.
