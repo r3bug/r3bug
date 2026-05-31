@@ -1,13 +1,16 @@
 # Giulio Di Natale
 ![SVG](terminal.svg)
 
+
+
+---
+
 Tecnico Informatico & Web Developer  
 📍 Siracusa, Italia
 
 Mi occupo di infrastrutture IT, supporto sistemistico e sviluppo web, con particolare attenzione a sicurezza, performance e affidabilità.
 
 ---
-
 ## 👨‍💻 Chi Sono
 
 Sono un tecnico informatico e web developer specializzato nella gestione di sistemi, reti e applicazioni web.
