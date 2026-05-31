@@ -1,4 +1,5 @@
 # Giulio Di Natale
+![SVG](terminal.svg)
 
 Tecnico Informatico & Web Developer  
 📍 Siracusa, Italia
