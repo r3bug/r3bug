@@ -34,32 +34,10 @@ AMBIENTI   Windows · Linux · Proxmox · Docker · WordPress
 
 ## Competenze
 
-<table>
-	<tr>
-		<td width="50%" valign="top">
-
-### Sviluppo Web
-
-`HTML5` `CSS3` `JavaScript` `WordPress` `UX/UI` `Performance`
-
-### Automazione
-
-`Bash` `PowerShell` `Docker` `Git` `DNS` `SSL` `Backup`
-
-		</td>
-		<td width="50%" valign="top">
-
-### Sistemi & Networking
-
-`Windows Server` `Ubuntu/Debian` `Proxmox` `HomeLab` `LAN/VLAN` `Virtualizzazione`
-
-### Security Operations
-
-`Firewall` `VPN` `IDS/IPS` `Monitoring` `Hardening` `Access management`
-
-		</td>
-	</tr>
-</table>
+| Sviluppo Web | Sistemi & Networking |
+| :--- | :--- |
+| `HTML5` `CSS3` `JavaScript` `WordPress`<br>`UX/UI` `Performance` | `Windows Server` `Ubuntu/Debian` `Proxmox`<br>`HomeLab` `LAN/VLAN` `Virtualizzazione` |
+| **Automazione**<br>`Bash` `PowerShell` `Docker` `Git`<br>`DNS` `SSL` `Backup` | **Security Operations**<br>`Firewall` `VPN` `IDS/IPS`<br>`Monitoring` `Hardening` `Access management` |
 
 ## Cosa trovi qui
 
